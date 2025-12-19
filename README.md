@@ -98,7 +98,7 @@ This demonstrates how to traverse the tree using references.
 ---
 
 ### 3️⃣ Binary Tree Definitions
-![Binary Tree Definitions](implementation.jpeg)
+![Binary Tree Definitions](Implementation.jpeg)
 
 ---
 
